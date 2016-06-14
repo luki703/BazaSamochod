@@ -6,4 +6,6 @@
 - Posiada rozwijane menu;
 - dodawanie i usuwanie pojazdów;
 - zapis i odczyt z pliku aby nie stracić danych po wyłączeniu programu;
-Program tworzy plik tekstowy o ścieżce \fileData\text.txt także można po sprawdzeniu usunąć ten folder z tym plikiem.
+Program tworzy plik tekstowy o ścieżce 
+\fileData\text.txt 
+także można po sprawdzeniu usunąć ten folder z tym plikiem.
