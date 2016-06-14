@@ -1,2 +1,0 @@
-# BazaSamochod
-# Łukasz Grzechnik
