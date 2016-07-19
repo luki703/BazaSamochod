@@ -1,0 +1,28 @@
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\BazaSamochod\BazaSamochod\bin\Debug\BazaSamochod.exe.config
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\BazaSamochod\BazaSamochod\bin\Debug\BazaSamochod.exe
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\BazaSamochod\BazaSamochod\bin\Debug\BazaSamochod.pdb
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\BazaSamochod\BazaSamochod\obj\Debug\BazaSamochod.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\BazaSamochod\BazaSamochod\obj\Debug\MainWindow.g.cs
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\BazaSamochod\BazaSamochod\obj\Debug\App.g.cs
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\BazaSamochod\BazaSamochod\obj\Debug\BazaSamochod_MarkupCompile.cache
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\BazaSamochod\BazaSamochod\obj\Debug\BazaSamochod_MarkupCompile.lref
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\BazaSamochod\BazaSamochod\obj\Debug\MainWindow.baml
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\BazaSamochod\BazaSamochod\obj\Debug\BazaSamochod.g.resources
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\BazaSamochod\BazaSamochod\obj\Debug\BazaSamochod.Properties.Resources.resources
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\BazaSamochod\BazaSamochod\obj\Debug\BazaSamochod.csproj.GenerateResource.Cache
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\BazaSamochod\BazaSamochod\obj\Debug\BazaSamochod.exe
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\BazaSamochod\BazaSamochod\obj\Debug\BazaSamochod.pdb
+C:\Users\Łukasz\Desktop\BazaSamochod\BazaSamochod\bin\Debug\BazaSamochod.exe.config
+C:\Users\Łukasz\Desktop\BazaSamochod\BazaSamochod\obj\Debug\BazaSamochod.exe
+C:\Users\Łukasz\Desktop\BazaSamochod\BazaSamochod\obj\Debug\BazaSamochod.pdb
+C:\Users\Łukasz\Desktop\BazaSamochod\BazaSamochod\bin\Debug\BazaSamochod.exe
+C:\Users\Łukasz\Desktop\BazaSamochod\BazaSamochod\bin\Debug\BazaSamochod.pdb
+C:\Users\Łukasz\Desktop\BazaSamochod\BazaSamochod\obj\Debug\BazaSamochod.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\Desktop\BazaSamochod\BazaSamochod\obj\Debug\MainWindow.g.cs
+C:\Users\Łukasz\Desktop\BazaSamochod\BazaSamochod\obj\Debug\App.g.cs
+C:\Users\Łukasz\Desktop\BazaSamochod\BazaSamochod\obj\Debug\BazaSamochod_MarkupCompile.cache
+C:\Users\Łukasz\Desktop\BazaSamochod\BazaSamochod\obj\Debug\BazaSamochod_MarkupCompile.lref
+C:\Users\Łukasz\Desktop\BazaSamochod\BazaSamochod\obj\Debug\MainWindow.baml
+C:\Users\Łukasz\Desktop\BazaSamochod\BazaSamochod\obj\Debug\BazaSamochod.g.resources
+C:\Users\Łukasz\Desktop\BazaSamochod\BazaSamochod\obj\Debug\BazaSamochod.Properties.Resources.resources
+C:\Users\Łukasz\Desktop\BazaSamochod\BazaSamochod\obj\Debug\BazaSamochod.csproj.GenerateResource.Cache
